@@ -1,0 +1,84 @@
+C:\Users\Tomasz Bielas\source\repos\Program do nauki\Program do nauki\bin\Debug\Program do nauki.exe.config
+C:\Users\Tomasz Bielas\source\repos\Program do nauki\Program do nauki\bin\Debug\Program do nauki.exe
+C:\Users\Tomasz Bielas\source\repos\Program do nauki\Program do nauki\bin\Debug\Program do nauki.pdb
+C:\Users\Tomasz Bielas\source\repos\Program do nauki\Program do nauki\obj\Debug\Program do nauki.csprojAssemblyReference.cache
+C:\Users\Tomasz Bielas\source\repos\Program do nauki\Program do nauki\obj\Debug\Edycja.g.cs
+C:\Users\Tomasz Bielas\source\repos\Program do nauki\Program do nauki\obj\Debug\MainWindow.g.cs
+C:\Users\Tomasz Bielas\source\repos\Program do nauki\Program do nauki\obj\Debug\Wczytaj.g.cs
+C:\Users\Tomasz Bielas\source\repos\Program do nauki\Program do nauki\obj\Debug\Zapisz.g.cs
+C:\Users\Tomasz Bielas\source\repos\Program do nauki\Program do nauki\obj\Debug\App.g.cs
+C:\Users\Tomasz Bielas\source\repos\Program do nauki\Program do nauki\obj\Debug\Program do nauki_MarkupCompile.cache
+C:\Users\Tomasz Bielas\source\repos\Program do nauki\Program do nauki\obj\Debug\Program do nauki_MarkupCompile.lref
+C:\Users\Tomasz Bielas\source\repos\Program do nauki\Program do nauki\obj\Debug\Edycja.baml
+C:\Users\Tomasz Bielas\source\repos\Program do nauki\Program do nauki\obj\Debug\MainWindow.baml
+C:\Users\Tomasz Bielas\source\repos\Program do nauki\Program do nauki\obj\Debug\Wczytaj.baml
+C:\Users\Tomasz Bielas\source\repos\Program do nauki\Program do nauki\obj\Debug\Zapisz.baml
+C:\Users\Tomasz Bielas\source\repos\Program do nauki\Program do nauki\obj\Debug\Program do nauki.g.resources
+C:\Users\Tomasz Bielas\source\repos\Program do nauki\Program do nauki\obj\Debug\Program_do_nauki.Properties.Resources.resources
+C:\Users\Tomasz Bielas\source\repos\Program do nauki\Program do nauki\obj\Debug\Program do nauki.csproj.GenerateResource.cache
+C:\Users\Tomasz Bielas\source\repos\Program do nauki\Program do nauki\obj\Debug\Program do nauki.csproj.CoreCompileInputs.cache
+C:\Users\Tomasz Bielas\source\repos\Program do nauki\Program do nauki\obj\Debug\Program do nauki.exe
+C:\Users\Tomasz Bielas\source\repos\Program do nauki\Program do nauki\obj\Debug\Program do nauki.pdb
+C:\Users\Tomasz Bielas\Desktop\Program do nauki\Program do nauki\bin\Debug\Program do nauki.exe.config
+C:\Users\Tomasz Bielas\Desktop\Program do nauki\Program do nauki\bin\Debug\Program do nauki.exe
+C:\Users\Tomasz Bielas\Desktop\Program do nauki\Program do nauki\bin\Debug\Program do nauki.pdb
+C:\Users\Tomasz Bielas\Desktop\Program do nauki\Program do nauki\obj\Debug\Program do nauki.csprojAssemblyReference.cache
+C:\Users\Tomasz Bielas\Desktop\Program do nauki\Program do nauki\obj\Debug\Edycja.g.cs
+C:\Users\Tomasz Bielas\Desktop\Program do nauki\Program do nauki\obj\Debug\MainWindow.g.cs
+C:\Users\Tomasz Bielas\Desktop\Program do nauki\Program do nauki\obj\Debug\Wczytaj.g.cs
+C:\Users\Tomasz Bielas\Desktop\Program do nauki\Program do nauki\obj\Debug\Zapisz.g.cs
+C:\Users\Tomasz Bielas\Desktop\Program do nauki\Program do nauki\obj\Debug\App.g.cs
+C:\Users\Tomasz Bielas\Desktop\Program do nauki\Program do nauki\obj\Debug\Program do nauki_MarkupCompile.cache
+C:\Users\Tomasz Bielas\Desktop\Program do nauki\Program do nauki\obj\Debug\Program do nauki_MarkupCompile.lref
+C:\Users\Tomasz Bielas\Desktop\Program do nauki\Program do nauki\obj\Debug\Edycja.baml
+C:\Users\Tomasz Bielas\Desktop\Program do nauki\Program do nauki\obj\Debug\MainWindow.baml
+C:\Users\Tomasz Bielas\Desktop\Program do nauki\Program do nauki\obj\Debug\Wczytaj.baml
+C:\Users\Tomasz Bielas\Desktop\Program do nauki\Program do nauki\obj\Debug\Zapisz.baml
+C:\Users\Tomasz Bielas\Desktop\Program do nauki\Program do nauki\obj\Debug\Program do nauki.g.resources
+C:\Users\Tomasz Bielas\Desktop\Program do nauki\Program do nauki\obj\Debug\Program_do_nauki.Properties.Resources.resources
+C:\Users\Tomasz Bielas\Desktop\Program do nauki\Program do nauki\obj\Debug\Program do nauki.csproj.GenerateResource.cache
+C:\Users\Tomasz Bielas\Desktop\Program do nauki\Program do nauki\obj\Debug\Program do nauki.csproj.CoreCompileInputs.cache
+C:\Users\Tomasz Bielas\Desktop\Program do nauki\Program do nauki\obj\Debug\Program do nauki.exe
+C:\Users\Tomasz Bielas\Desktop\Program do nauki\Program do nauki\obj\Debug\Program do nauki.pdb
+E:\Projekty\Program do nauki\Program do nauki\bin\Debug\Program do nauki.exe.config
+E:\Projekty\Program do nauki\Program do nauki\bin\Debug\Program do nauki.exe
+E:\Projekty\Program do nauki\Program do nauki\bin\Debug\Program do nauki.pdb
+E:\Projekty\Program do nauki\Program do nauki\obj\Debug\Program do nauki.csprojResolveAssemblyReference.cache
+E:\Projekty\Program do nauki\Program do nauki\obj\Debug\Edycja.g.cs
+E:\Projekty\Program do nauki\Program do nauki\obj\Debug\MainWindow.g.cs
+E:\Projekty\Program do nauki\Program do nauki\obj\Debug\Wczytaj.g.cs
+E:\Projekty\Program do nauki\Program do nauki\obj\Debug\Zapisz.g.cs
+E:\Projekty\Program do nauki\Program do nauki\obj\Debug\App.g.cs
+E:\Projekty\Program do nauki\Program do nauki\obj\Debug\Program do nauki_MarkupCompile.cache
+E:\Projekty\Program do nauki\Program do nauki\obj\Debug\Program do nauki_MarkupCompile.lref
+E:\Projekty\Program do nauki\Program do nauki\obj\Debug\Edycja.baml
+E:\Projekty\Program do nauki\Program do nauki\obj\Debug\MainWindow.baml
+E:\Projekty\Program do nauki\Program do nauki\obj\Debug\Wczytaj.baml
+E:\Projekty\Program do nauki\Program do nauki\obj\Debug\Zapisz.baml
+E:\Projekty\Program do nauki\Program do nauki\obj\Debug\Program do nauki.g.resources
+E:\Projekty\Program do nauki\Program do nauki\obj\Debug\Program_do_nauki.Properties.Resources.resources
+E:\Projekty\Program do nauki\Program do nauki\obj\Debug\Program do nauki.csproj.GenerateResource.Cache
+E:\Projekty\Program do nauki\Program do nauki\obj\Debug\Program do nauki.csproj.CoreCompileInputs.cache
+E:\Projekty\Program do nauki\Program do nauki\obj\Debug\Program do nauki.exe
+E:\Projekty\Program do nauki\Program do nauki\obj\Debug\Program do nauki.pdb
+D:\Projekty\Program do nauki\Program do nauki\bin\Debug\Program do nauki.exe.config
+D:\Projekty\Program do nauki\Program do nauki\bin\Debug\Program do nauki.exe
+D:\Projekty\Program do nauki\Program do nauki\bin\Debug\Program do nauki.pdb
+D:\Projekty\Program do nauki\Program do nauki\obj\Debug\Program do nauki.csprojAssemblyReference.cache
+D:\Projekty\Program do nauki\Program do nauki\obj\Debug\Edycja.g.cs
+D:\Projekty\Program do nauki\Program do nauki\obj\Debug\MainWindow.g.cs
+D:\Projekty\Program do nauki\Program do nauki\obj\Debug\Wczytaj.g.cs
+D:\Projekty\Program do nauki\Program do nauki\obj\Debug\Zapisz.g.cs
+D:\Projekty\Program do nauki\Program do nauki\obj\Debug\App.g.cs
+D:\Projekty\Program do nauki\Program do nauki\obj\Debug\Program do nauki_MarkupCompile.cache
+D:\Projekty\Program do nauki\Program do nauki\obj\Debug\Program do nauki_MarkupCompile.lref
+D:\Projekty\Program do nauki\Program do nauki\obj\Debug\Edycja.baml
+D:\Projekty\Program do nauki\Program do nauki\obj\Debug\MainWindow.baml
+D:\Projekty\Program do nauki\Program do nauki\obj\Debug\Wczytaj.baml
+D:\Projekty\Program do nauki\Program do nauki\obj\Debug\Zapisz.baml
+D:\Projekty\Program do nauki\Program do nauki\obj\Debug\Program do nauki.g.resources
+D:\Projekty\Program do nauki\Program do nauki\obj\Debug\Program_do_nauki.Properties.Resources.resources
+D:\Projekty\Program do nauki\Program do nauki\obj\Debug\Program do nauki.csproj.GenerateResource.cache
+D:\Projekty\Program do nauki\Program do nauki\obj\Debug\Program do nauki.csproj.CoreCompileInputs.cache
+D:\Projekty\Program do nauki\Program do nauki\obj\Debug\Program do nauki.exe
+D:\Projekty\Program do nauki\Program do nauki\obj\Debug\Program do nauki.pdb

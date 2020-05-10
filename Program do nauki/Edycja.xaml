@@ -1,0 +1,31 @@
+﻿<Window x:Class="Program_do_nauki.Edycja"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Program_do_nauki"
+        mc:Ignorable="d"
+        Title="Edycja" Height="450" Width="800">
+    <Grid Background="#FF383838">
+        <Button x:Name="btn_dodaj" Content="Dodaj" HorizontalAlignment="Left" Margin="350,10,0,0" VerticalAlignment="Top" Width="432" Click="Btn_dodaj_Click" BorderBrush="White" Foreground="White">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="White" Offset="0"/>
+                    <GradientStop Color="Black" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button x:Name="btn_usun" Content="Usun" HorizontalAlignment="Left" Margin="10,388,0,0" VerticalAlignment="Top" Width="335" Click="Btn_usun_Click" BorderBrush="White" Foreground="White">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="White" Offset="0"/>
+                    <GradientStop Color="Black" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <TextBox x:Name="tbx_def" HorizontalAlignment="Left" Height="23" Margin="350,37,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="432" Background="#FF1D1D1D" BorderBrush="White" Foreground="White" KeyDown="tbx_def_KeyDown"/>
+        <TextBox x:Name="tbx_opi" HorizontalAlignment="Left" Height="345" Margin="350,65,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="432" Background="#FF1D1D1D" BorderBrush="White" Foreground="White" KeyDown="tbx_opi_KeyDown" AcceptsReturn="True"/>
+        <ListBox x:Name="lbx_def" HorizontalAlignment="Left" Height="373" Margin="10,10,0,0" VerticalAlignment="Top" Width="335" Background="#FF1D1D1D" BorderBrush="White" Foreground="White"/>
+
+    </Grid>
+</Window>
